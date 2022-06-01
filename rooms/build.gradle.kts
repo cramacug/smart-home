@@ -1,5 +1,6 @@
 plugins {
-    id("java")
+    kotlin("jvm")
+    application
 }
 
 group = "org.cramacug"
