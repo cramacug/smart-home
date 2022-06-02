@@ -1,5 +1,6 @@
 package org.cramacug.garden
 
+import org.cramacug.garden.api.Dashboard
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
 

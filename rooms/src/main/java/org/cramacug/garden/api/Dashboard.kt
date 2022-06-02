@@ -1,4 +1,4 @@
-package org.cramacug.garden
+package org.cramacug.garden.api
 
 class Dashboard {
 
